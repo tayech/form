@@ -1,0 +1,18 @@
+form{
+    
+    display: wrap;
+    background-color: black;
+    border-radius: 20px;
+    opacity: 70%;
+    width: 40%;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    margin-left: 27%;
+    margin-top: 65px;
+    margin-bottom: 20px;
+    position: relative;
+}
+.label{
+    color:blue;
+}
